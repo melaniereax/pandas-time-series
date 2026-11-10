@@ -1,7 +1,5 @@
 # Pandas Time Series Analysis: US Light Vehicle Sales
-
-Project Page: https://melaniereax.github.io/pandas-time-series/
-Repository: https://github.com/melaniereax/pandas-time-series
+Roadmap Project: https://roadmap.sh/projects/pandas-time-series
 
 ## About this project
 A time series analysis of monthly US light vehicle sales data (FRED series

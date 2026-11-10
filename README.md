@@ -1,1 +1,1 @@
-https://github.com/melaniereax/pandas-time-series
+melaniereax.github.io/pandas-time-series
